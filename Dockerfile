@@ -1,3 +1,3 @@
 FROM docker.io/library/alpine:latest
 
-RUN echo baf lek
+RUN echo baf lek mek
