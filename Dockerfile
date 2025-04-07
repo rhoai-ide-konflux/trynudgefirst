@@ -1,1 +1,1 @@
-FROM python:3.12
+FROM docker.io/library/alpine:latest
